@@ -9,8 +9,8 @@
   },
   "devDependencies": {
     "@types/js-yaml": "4.0.1",
-    "@typescript-eslint/eslint-plugin": "4.23.0",
-    "@typescript-eslint/parser": "4.23.0",
+    "@typescript-eslint/eslint-plugin": "4.25.0",
+    "@typescript-eslint/parser": "4.25.0",
     "@zeit/ncc": "0.22.3",
     "eslint": "7.26.0",
     "eslint-config-standard": "16.0.2",
